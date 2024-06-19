@@ -1,0 +1,11 @@
+/home/danielsouza/20245/Rust/axum_full_course/target/debug/deps/libhttpc_test-8098fc76a3a21131.rmeta: /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/lib.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/client.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/cookie.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/error.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/response.rs
+
+/home/danielsouza/20245/Rust/axum_full_course/target/debug/deps/libhttpc_test-8098fc76a3a21131.rlib: /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/lib.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/client.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/cookie.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/error.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/response.rs
+
+/home/danielsouza/20245/Rust/axum_full_course/target/debug/deps/httpc_test-8098fc76a3a21131.d: /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/lib.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/client.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/cookie.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/error.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/response.rs
+
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/lib.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/client.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/cookie.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/error.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httpc-test-0.1.9/src/response.rs:

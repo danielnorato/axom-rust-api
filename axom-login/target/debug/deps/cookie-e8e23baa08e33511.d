@@ -1,0 +1,11 @@
+/home/danielsouza/20245/Rust/axum_full_course/target/debug/deps/libcookie-e8e23baa08e33511.rmeta: /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/lib.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/builder.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/parse.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/jar.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/delta.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/draft.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/expiration.rs
+
+/home/danielsouza/20245/Rust/axum_full_course/target/debug/deps/cookie-e8e23baa08e33511.d: /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/lib.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/builder.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/parse.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/jar.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/delta.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/draft.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/expiration.rs
+
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/lib.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/builder.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/parse.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/jar.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/delta.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/draft.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/expiration.rs:

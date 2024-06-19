@@ -1,0 +1,11 @@
+/home/danielsouza/20245/Rust/axum_full_course/target/debug/deps/libipnet-b749e014508b955d.rmeta: /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/lib.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/ipext.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/ipnet.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/parser.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/mask.rs
+
+/home/danielsouza/20245/Rust/axum_full_course/target/debug/deps/libipnet-b749e014508b955d.rlib: /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/lib.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/ipext.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/ipnet.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/parser.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/mask.rs
+
+/home/danielsouza/20245/Rust/axum_full_course/target/debug/deps/ipnet-b749e014508b955d.d: /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/lib.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/ipext.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/ipnet.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/parser.rs /home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/mask.rs
+
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/lib.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/ipext.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/ipnet.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/parser.rs:
+/home/danielsouza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.9.0/src/mask.rs:
